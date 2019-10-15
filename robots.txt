@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeengifah.ubiqbox.com/sitemap.xml
